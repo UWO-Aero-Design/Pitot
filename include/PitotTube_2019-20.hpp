@@ -7,7 +7,7 @@
 #pragma once
 
 // Include for sensor interfaces; pitot tube needed
-#include "src/aero-cpp-lib/include/Pitot.hpp"         
+#include "pitot.hpp"         
 
 /**
  * @brief Class for a differential pressure made by Phidget
